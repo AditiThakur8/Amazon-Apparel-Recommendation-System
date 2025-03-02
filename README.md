@@ -96,8 +96,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 - Coding Club has supported me in making this project a sucess
 ---
 
-## Contact
-For queries or collaboration, contact:
-- **Name**: Aditi Thakur
-- **Email**: aditithakur907@gmail.com
-- **GitHub**: [AditiThakur8](https://github.com/AditiThakur8)
+
