@@ -30,8 +30,6 @@ The dataset consists of:
 - **User Ratings**: Customer feedback and ratings.
 - **Product Categories**: Classification of products into various apparel categories.
 
-(Data source: [Amazon Product Dataset](https://www.kaggle.com/), pre-processed for use in this project.)
-
 ---
 
 ## Installation and Usage
@@ -94,6 +92,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 - **Kaggle** for providing the dataset.
 - **Amazon API** for product data integration.
 - Coding Club has supported me in making this project a sucess
----
+
 
 
